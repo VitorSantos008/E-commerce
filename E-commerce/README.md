@@ -1,11 +1,14 @@
 # Sistema de E-commerce - CP4
-integrantes:
+## integrantes:
 
 Vitor Julião Diogo dos Santos 
 Guilherme Trajane da Silva
 João Gustavo Sanches Silva
 Fernando Paiva Coelho
 Leandro do Nascimento Lemes
+
+## link video
+https://www.youtube.com/watch?v=EQCAoWMEBmI
 
 
 ## Descrição do Projeto
